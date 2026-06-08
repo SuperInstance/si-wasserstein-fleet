@@ -1,0 +1,7 @@
+[package]
+name = "si-wasserstein-fleet"
+version = "0.1.0"
+edition = "2021"
+description = "Wasserstein distance for fleet distribution shift detection and agent realignment"
+
+[dependencies]
